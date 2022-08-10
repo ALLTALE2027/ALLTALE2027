@@ -1,9 +1,15 @@
 -# 💫About Me :
+
 👋 Hi, I’m Darshan Deshmukh 
+
 👀 I’m interested in learning new technologies
+
 🌱 I’m currently learning full stack web development (MERN)
+
 💞️ I’m looking for entry level position as full stack web developer
+
 📫 You can reach me at darshandyp@gmail.com
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/DARSHAN DESHMUKH) 
