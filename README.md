@@ -8,7 +8,7 @@
 
 💞️ I’m looking for entry level position as full stack web developer
 
-📫 You can reach me at darshandyp@gmail.com
+📫 You can reach me at darshandeshmukh20@gmail.com
 
 
 ## 🌐Socials
