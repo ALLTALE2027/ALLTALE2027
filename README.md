@@ -1,12 +1,13 @@
 -# 💫About Me :
 
-👋 Hi, I’m Darshan Deshmukh 
+👋 Hi there, I’m Darshan Deshmukh 
 
-👀 I’m interested in learning new technologies
+🌀 Just another coffee-fueled coder walking the path of a software emgineer shinobi.  
+From the **backend dungeons** of Node.js to the **frontend battlegrounds** of React & Angular,  
+I wield my keyboard like a katana — slicing through errors and refactoring legacy beasts.
 
-🌱 I’m currently learning full stack web development (MERN)
-
-💞️ I’m looking for entry level position as full stack web developer
+🌌 On a quest to build clean, scalable, and meaningful digital experiences.  
+Fueled by TypeScript, curiosity, and the occasional midnight ramen.
 
 📫 You can reach me at darshandeshmukh20@gmail.com
 
